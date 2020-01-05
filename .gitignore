@@ -1,7 +1,7 @@
 
-/.idea
-/.mvn
-/mvnw.cmd
-/HELP.md
-/mvnw.cmd
-/myneety.iml
+/*.idea
+/*.mvn
+*.cmd
+*.md
+*.cmd
+*.iml
