@@ -29,3 +29,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+/.idea
+/.mvn
+/.gitignore
+/mvnw.cmd
+/HELP.md
+/mvnw.cmd
+/myneety.iml
